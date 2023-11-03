@@ -24,7 +24,7 @@ Este conjunto de datos comprende una variada colección de imágenes deportivas 
 Las imágenes se obtuvieron a través de búsquedas en Internet y se sometieron a un proceso de eliminación de duplicados para garantizar la integridad de los conjuntos de entrenamiento, prueba y validación. Todas las imágenes se redimensionaron a 224x224 píxeles y se convirtieron al formato JPG.
 
 # Objetivo :dart:
-El objetivo principal de este proyecto es desarrollar una Convolutional Neural Network (CNN) capaz de clasificar imágenes deportivas en una de las 100 categorías de deportes presentes en el conjunto de datos.
+El objetivo principal de este proyecto es desarrollar una Convolutional Neural Network (CNN) capaz de clasificar imágenes deportivas de las 100 categorías de deportes presentes en el conjunto de datos.
 
 # Resultados y Evaluación :chart:
 
