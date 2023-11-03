@@ -1,7 +1,7 @@
 # AI_DataScience_NeuralSight
 
 Este README proporciona una descripción detallada del proyecto de clasificación de imágenes deportivas utilizando una Convolutional Neural Network (CNN). El proyecto se basa en el uso de un conjunto de datos de imágenes deportivas llamado "100 Sports Image Classification".
-al que se accede desde Kaggle: [100 Sports Image Classification](https://www.kaggle.com/datasets/gpiosenka/sports-classification/?select=test).
+AL cual se puede acceder a través de la siguiente liga: [100 Sports Image Classification](https://www.kaggle.com/datasets/gpiosenka/sports-classification/?select=test).
 A continuación, se presenta una estructura que detalla los aspectos clave de este proyecto.
 
 ## :arrow_right: Contenido del repositorio 
