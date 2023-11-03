@@ -28,7 +28,7 @@ El objetivo principal de este proyecto es desarrollar una Convolutional Neural N
 
 # Resultados y Evaluación :chart:
 
-Nuestro modelo de CNN fue entrenado y evaluado en el conjunto de datos "100 Sports Image Classification". A continuación, presentamos los resultados obtenidos:
+EL modelo de CNN fue entrenado y evaluado en el conjunto de datos "100 Sports Image Classification". A continuación, presentamos los resultados obtenidos:
 
 Modelo de CNN: El modelo de CNN utilizado para la clasificación de imágenes deportivas se compone de capas de convolución, capas de max-pooling y capas completamente conectadas.
 
