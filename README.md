@@ -17,7 +17,9 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 
 __Nombre del dataset__: 100 Sports Image Classification
 __Variables__: Las imágenes del conjunto de datos tienen un formato de 224x224 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento, prueba y validación.
-Este conjunto de datos comprende una variada colección de imágenes deportivas que abarcan 100 deportes diferentes. Las imágenes se obtuvieron a través de búsquedas en Internet y se sometieron a un proceso de eliminación de duplicados para garantizar la integridad de los conjuntos de entrenamiento, prueba y validación. Todas las imágenes se redimensionaron a 224x224 píxeles y se convirtieron al formato JPG.
+Este conjunto de datos comprende una variada colección de imágenes deportivas que abarcan 100 deportes diferentes.
+
+Las imágenes se obtuvieron a través de búsquedas en Internet y se sometieron a un proceso de eliminación de duplicados para garantizar la integridad de los conjuntos de entrenamiento, prueba y validación. Todas las imágenes se redimensionaron a 224x224 píxeles y se convirtieron al formato JPG.
 
 # Objetivo :dart:
 El objetivo principal de este proyecto es desarrollar una Convolutional Neural Network (CNN) capaz de clasificar imágenes deportivas en una de las 100 categorías de deportes presentes en el conjunto de datos.
