@@ -39,7 +39,7 @@ Métricas adicionales: Durante el entrenamiento, se observaron métricas como la
 
 # Conclusiones :triangular_flag_on_post:
 
-En conclusión, nuestro proyecto de clasificación de imágenes deportivas ha logrado desarrollar una CNN capaz de clasificar imágenes en una de las 100 categorías deportivas. Sin embargo, se observa margen para mejorar la precisión del modelo, lo que podría lograrse mediante la optimización de hiperparámetros y la exploración de arquitecturas de redes neuronales más avanzadas. Además, se debe considerar la calidad y diversidad del conjunto de datos para futuros trabajos. Este proyecto sienta las bases para investigaciones y aplicaciones adicionales en el campo de la visión por computadora y la clasificación de imágenes deportivas.
+En conclusión, el proyecto de clasificación de imágenes deportivas ha logrado desarrollar una CNN capaz de clasificar imágenes de las 100 categorías deportivas. Sin embargo, se observa margen para mejorar la precisión del modelo, lo que podría lograrse mediante la optimización de hiperparámetros y la exploración de arquitecturas de redes neuronales más avanzadas. Además, se debe considerar la calidad y diversidad del conjunto de datos para futuros trabajos.
 
 ## :small_blue_diamond: Uso
 
