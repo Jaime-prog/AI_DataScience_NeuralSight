@@ -16,6 +16,8 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 # Dataset :information_source:
 
 __Nombre del dataset__: 100 Sports Image Classification
+
+
 __Variables__: Las imágenes del conjunto de datos tienen un formato de 224x224 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento, prueba y validación.
 Este conjunto de datos comprende una variada colección de imágenes deportivas que abarcan 100 deportes diferentes.
 
