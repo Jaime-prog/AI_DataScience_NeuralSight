@@ -26,7 +26,7 @@ Las imágenes se obtuvieron a través de búsquedas en Internet y se sometieron 
 # Objetivo :dart:
 El objetivo principal de este proyecto es desarrollar una Convolutional Neural Network (CNN) capaz de clasificar imágenes deportivas de las 100 categorías de deportes presentes en el conjunto de datos.
 
-# Resultados y Evaluación :chart:
+# Resultados y Evaluación Inicial :chart:
 
 EL modelo de CNN fue entrenado y evaluado en el conjunto de datos "100 Sports Image Classification". A continuación, presentamos los resultados obtenidos:
 
@@ -36,6 +36,7 @@ Precisión en el conjunto de prueba: El modelo logró una precisión de prueba d
 
 Métricas adicionales: Durante el entrenamiento, se observaron métricas como la pérdida (loss) y la precisión (accuracy). Por ejemplo, la pérdida fue de aproximadamente 2.94 y la precisión de entrenamiento alcanzó el 25.25%. En el conjunto de validación, la pérdida fue de 2.52 y la precisión fue de 33.73%.
 
+# Resultados y Evaluación Mejorar :writing_hand:
 
 # Conclusiones :triangular_flag_on_post:
 
