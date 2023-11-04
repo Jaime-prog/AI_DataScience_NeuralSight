@@ -33,6 +33,10 @@ Las imágenes se obtuvieron a través de búsquedas en Internet y se sometieron 
 # Objetivo :dart:
 El objetivo principal de este proyecto es desarrollar una Convolutional Neural Network (CNN) capaz de clasificar imágenes deportivas de las 100 categorías de deportes presentes en el conjunto de datos.
 
+La clasificación automática de imágenes de deportes tiene múltiples aplicaciones útiles. Un modelo de CNN entrenado en un amplio conjunto de datos de imágenes de deportes puede utilizarse para clasificar y etiquetar automáticamente nuevas imágenes y videos de forma precisa.
+
+Desarrollar un modelo preciso de clasificación de imágenes de deportes mediante deep learning representa una contribución valiosa para la investigación en procesamiento de imágenes y sus diversas aplicaciones en el ámbito deportivo. Este proyecto constituye un ejemplo práctico del potencial de los algoritmos de aprendizaje profundo para extraer información útil automáticamente a partir de datos visuales.
+
 ## Resultados y Evaluación Inicial :chart:
 
 EL modelo de CNN fue entrenado y evaluado en el conjunto de datos "100 Sports Image Classification". A continuación, presentamos los resultados obtenidos:
