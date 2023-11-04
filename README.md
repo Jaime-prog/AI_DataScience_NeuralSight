@@ -21,6 +21,13 @@ __Nombre del dataset__: 100 Sports Image Classification
 __Variables__: Las imágenes del conjunto de datos tienen un formato de 224x224 píxeles y 3 canales (RGB). El conjunto de datos está dividido en directorios de entrenamiento, prueba y validación.
 Este conjunto de datos comprende una variada colección de imágenes deportivas que abarcan 100 deportes diferentes.
 
+Inicialmente esta es la distribución de las carpetas
+
+_Train_: 13635 imágenes pertenecientes a 100 clases
+_Test_: 510 imágenes pertenecientes a 100 clases
+_Validation_: 500 imágenes pertenecientes a 100 clases
+
+
 Las imágenes se obtuvieron a través de búsquedas en Internet y se sometieron a un proceso de eliminación de duplicados para garantizar la integridad de los conjuntos de entrenamiento, prueba y validación. Todas las imágenes se redimensionaron a 224x224 píxeles y se convirtieron al formato JPG.
 
 # Objetivo :dart:
