@@ -9,9 +9,9 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 ## :arrow_right: Contenido del repositorio 
 
  _Archivos/Scripts_: 
-- `CNN_Image_Classification.ipynb`: En este programa ...
-- `CNN_base_model.ipynb`: En este programa ...
-- `Reporte sobre el  desempeño del los modelos de CNN` :
+ - `CNN_base_model.ipynb`
+- `CNN_Image_Classification.ipynb`
+- `Reporte Implementación de un modelo de deep learning` 
 
 # Dataset :information_source:
 
