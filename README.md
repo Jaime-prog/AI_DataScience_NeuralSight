@@ -43,13 +43,14 @@ Desarrollar un modelo preciso de clasificación de imágenes de deportes mediant
 EL modelo de CNN fue entrenado y evaluado en el conjunto de datos "100 Sports Image Classification". A continuación, presentamos los resultados obtenidos:
 
 Modelo de CNN: El modelo de CNN utilizado para la clasificación de imágenes deportivas se compone de capas de convolución, capas de max-pooling y capas completamente conectadas.
+_Cabe destacar que esta implementación es una red CNN implementada desde 0. Lo cual conllevo a ciertas limitaciones en cuanto a tiempo y recursos utilizados._
 
 Precisión en el conjunto de prueba: El modelo logró una precisión de prueba de aproximadamente el 35.4%, lo que significa que acertó en la categorización del deporte en alrededor del 35.4% de las imágenes de prueba.
 
 Métricas adicionales: Durante el entrenamiento, se observaron métricas como la pérdida (loss) y la precisión (accuracy). Por ejemplo, la pérdida fue de aproximadamente 2.94 y la precisión de entrenamiento alcanzó el 25.25%. En el conjunto de validación, la pérdida fue de 2.52 y la precisión fue de 33.73%.
 
 ## Resultados y Evaluación al mejorar el modelo :writing_hand:
-El modelo mejorado utiliza la arquitectura ResNet50, una red neuronal convolucional profunda pre-entrenada en el conjunto de datos ImageNet. La capa de salida de la red se sustituyó por una capa densa con 100 neuronas y una función de activación softmax.
+**El modelo mejorado utiliza la arquitectura ResNet50**, una red neuronal convolucional profunda pre-entrenada en el conjunto de datos ImageNet. La capa de salida de la red se sustituyó por una capa densa con 100 neuronas y una función de activación softmax.
 
 Este modelo alcanzó una pérdida de 0.182 en el conjunto de validación. Una pérdida menor indica que el modelo está cometiendo menos errores en la clasificación de las imágenes.
 
