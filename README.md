@@ -9,8 +9,9 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 ## :arrow_right: Contenido del repositorio 
 
  _Archivos/Scripts_: 
- - `CNN_base_model.ipynb`
-- `CNN_Image_Classification.ipynb`
+- `CNN_Image_Classification.ipynb` (implementación modelo base)
+-  `Improved_Model_Final_Version.ipynb` (implementación modelo mejorado)
+- `TestModel.ipynb` (Libreta para correr nuevas predicciones utilizando el mejor modelo)
 - `Reporte Implementación de un modelo de deep learning` 
 
 # Dataset :information_source:
@@ -48,6 +49,17 @@ Precisión en el conjunto de prueba: El modelo logró una precisión de prueba d
 Métricas adicionales: Durante el entrenamiento, se observaron métricas como la pérdida (loss) y la precisión (accuracy). Por ejemplo, la pérdida fue de aproximadamente 2.94 y la precisión de entrenamiento alcanzó el 25.25%. En el conjunto de validación, la pérdida fue de 2.52 y la precisión fue de 33.73%.
 
 ## Resultados y Evaluación al mejorar el modelo :writing_hand:
+El modelo mejorado utiliza la arquitectura ResNet50, una red neuronal convolucional profunda pre-entrenada en el conjunto de datos ImageNet. La capa de salida de la red se sustituyó por una capa densa con 100 neuronas y una función de activación softmax.
+
+Este modelo alcanzó una pérdida de 0.182 en el conjunto de validación. Una pérdida menor indica que el modelo está cometiendo menos errores en la clasificación de las imágenes.
+
+Asimismo, el modelo mejorado obtuvo una precisión de 94.999% en el conjunto de validación. Esto significa que el modelo fue capaz de clasificar correctamente el 94.999% de las imágenes de validación entre las 100 clases posibles.
+
+Estos resultados demuestran una mejora significativa en el desempeño del modelo en comparación con el modelo inicial. La reducción de la pérdida en un 60% y el aumento de la precisión en un 48% indican que el uso de una arquitectura de red neuronal convolucional pre-entrenada como ResNet50 permite al modelo generalizar mucho mejor en la tarea de clasificación de imágenes de deportes.
+
+La alta precisión obtenida sugiere que este modelo podría ser implementado en aplicaciones reales para etiquetar y organizar automáticamente nuevas imágenes y videos deportivos con un alto grado de exactitud. Sin embargo, se podría seguir explorando formas de mejorar la clasificación de ciertas clases minoritarias con menos muestras de entrenamiento.
+
+
 
 # Conclusiones :triangular_flag_on_post:
 
