@@ -9,8 +9,8 @@ A continuación, se presenta una estructura que detalla los aspectos clave de es
 ## :arrow_right: Contenido del repositorio 
 
  _Archivos/Scripts_: 
-- `CNN_Image_Classification.ipynb` (implementación modelo base)
--  `Improved_Model_Final_Version.ipynb` (implementación modelo mejorado)
+- `CNN_Image_Classification.ipynb` (Implementación modelo base)
+-  `Improved_Model_Final_Version.ipynb` (Implementación modelo mejorado)
 - `TestModel.ipynb` (Libreta para correr nuevas predicciones utilizando el mejor modelo)
 - `Reporte Implementación de un modelo de deep learning` 
 
