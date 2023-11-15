@@ -78,6 +78,6 @@ Para utilizar estos scripts, siga estos pasos generales:
 3. Ejecute los scripts deseados desde la línea de comandos, utilizando Python para los scripts Python y bash para el script shell.
   
    ```
-    Load_Model.py
+    TestModel.ipynb
    ```
 
